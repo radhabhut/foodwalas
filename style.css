@@ -1,0 +1,24 @@
+footer {
+    padding: 50px;
+    background:rgb(196, 191, 191);
+    color:black;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top:40px;
+}
+.btn:hover{
+    background-color: orange;
+}
+.photos{
+    transition: 0.10ms;
+}
+.photos:hover{
+    transform: translateY(-10px);
+}
+.phts:hover{
+    transform: translateY(-10px);
+}
+.phts{
+    transition: 0.15ms;
+}
